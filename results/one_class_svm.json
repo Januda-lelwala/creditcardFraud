@@ -1,0 +1,8 @@
+{
+  "name": "One-Class SVM",
+  "AUPRC": 0.18190002622681978,
+  "ROC-AUC": 0.9450266407210042,
+  "F1": 0.0,
+  "Precision": 0.0,
+  "Recall": 0.0
+}
